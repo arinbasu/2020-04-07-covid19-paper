@@ -1,8 +1,8 @@
 ---
 title: Covid-19 containment across the world
 author:
-    - Nick Draper
-	- Arindam Basu
+ - Nick Draper
+ - Arindam Basu
 date: 2020-06-01
 ---
 
